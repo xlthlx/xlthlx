@@ -1,0 +1,52 @@
+# Ignore all files starting with .
+.*
+._*
+
+# Do NOT ignore .gitignore
+!.gitignore
+
+# Do NOT ignore .gitattributes
+!.gitattributes
+
+# Do NOT ignore .distignore
+!.distignore
+
+# Do NOT ignore .circleci
+!.circleci
+
+# Do NOT ignore .editorconfig
+!.editorconfig
+
+# Do NOT ignore .README.md
+!README.md
+
+# Ignore all files that start with ~
+~*
+
+# Ignore packaged files
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+
+# Ignore OS generated files
+ehthumbs.db
+Thumbs.db
+
+# Ignore log files
+*.log
+
+# Ignore lock files
+*.lock
+
+# Ignore build Tools
+/_root
+/node_modules
+/vendor
+.idea
+package-lock.json
+phpcs.xml.dist
