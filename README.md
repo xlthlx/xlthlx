@@ -7,7 +7,7 @@
 
 
 ## 📫 You can find me on
-- Mastodon <a rel="me" href="https://hachyderm.io/@xlthlx">hachyderm.io/@xlthlx</a>
+- <a rel="me" href="https://hachyderm.io/@xlthlx">Mastodon</a>
 - BlueSky as [xlthlx](https://bsky.app/profile/xlthlx.com)
   
 
