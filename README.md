@@ -8,7 +8,7 @@
 
 ## 📫 You can find me on
 - <a rel="me" href="https://hachyderm.io/@xlthlx">Mastodon</a>
-- BlueSky as [xlthlx](https://bsky.app/profile/xlthlx.com)
+- [BlueSky](https://bsky.app/profile/xlthlx.com)
   
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
