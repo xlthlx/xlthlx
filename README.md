@@ -7,7 +7,7 @@
 
 
 ## 📫 You can find me on
-- <a rel="me" href="https://hachyderm.io/@xlthlx">Mastodon</a>
+- <a rel="nofollow me" href="https://hachyderm.io/@xlthlx">Mastodon</a>
 - [BlueSky](https://bsky.app/profile/xlthlx.com)
   
 
