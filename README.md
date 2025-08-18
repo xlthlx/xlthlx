@@ -10,8 +10,7 @@ I work mainly with WordPress; my primary skills are PHP, Databases, JavaScript, 
 
 
 ## ⚡ Fun fact
-- I'm [Lady of Glencoe and Lochaber](https://www.highlandtitles.com/) along with
-- Milord [Matteo](https://github.com/jtheo)
+- I'm [Lady of Glencoe and Lochaber](https://www.highlandtitles.com/) along with Milord [Matteo](https://github.com/jtheo)
 
 
 ## 📫 You can find me on
