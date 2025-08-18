@@ -16,4 +16,3 @@ I work mainly with WordPress; my primary skills are PHP, Databases, JavaScript, 
 
 ## 📫 You can find me on
 - <a rel="nofollow me" href="https://hachyderm.io/@xlthlx">Mastodon</a>
-- [BlueSky](https://bsky.app/profile/xlthlx.com)
