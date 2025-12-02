@@ -16,5 +16,4 @@ I made a speech at WordCamp Milan in 2019 about <a href="https://milano.wordcamp
 
 
 ## 📫 You can find me on
-- <a rel="nofollow me" href="https://hachyderm.io/@xlthlx">Mastodon</a>
 - <a rel="nofollow me" href="https://codeberg.org/xlthlx">Codeberg</a>
