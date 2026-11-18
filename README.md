@@ -13,3 +13,5 @@ I made a speech at WordCamp Milan in 2019 about <a href="https://milano.wordcamp
 
 ## 📫 You can find me on
 - <a rel="nofollow me" href="https://codeberg.org/xlthlx">Codeberg</a>
+
+[![xlthlx on GitRanks: profile](https://gitranks.com/badge/user/xlthlx/profile-card.svg?logo=0)](https://gitranks.com/profile/xlthlx)
